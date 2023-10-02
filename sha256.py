@@ -9,7 +9,7 @@ st.set_page_config(
 
 st.write("""
 <h1> HASHING </h1>
-<img width="50" height="50" src="https://icongr.am/octicons/file-binary.svg?size=128&color=currentColor" />
+<img width="50" height="50" src="https://icongr.am/octicons/file-binary.svg?size=128&color=ffffff" />
 """, unsafe_allow_html=True)
 
 with st.expander(":red[**O QUE É?**]"):
